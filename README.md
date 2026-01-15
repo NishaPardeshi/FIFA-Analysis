@@ -1,5 +1,8 @@
 # FIFA-Analysis
 
+<img width="1536" height="1024" alt="fifa_world_cup_analytics" src="https://github.com/user-attachments/assets/c8bcd17d-02e3-49e4-8caa-5c94e5f6c69f" />
+
+
 Detailed report can be found in  [Report](https://github.com/NishaPardeshi/FIFA-Analysis/tree/master/Report) section of github.
 </br>
 
